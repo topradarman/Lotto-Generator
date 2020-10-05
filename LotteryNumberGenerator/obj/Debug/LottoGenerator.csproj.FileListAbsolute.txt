@@ -1,0 +1,11 @@
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe.config
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.pdb
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LottoGenerator.csprojAssemblyReference.cache
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LottoGenerator.csproj.ResolveComReference.cache
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Form1.resources
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Properties.Resources.resources
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LottoGenerator.csproj.GenerateResource.cache
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LottoGenerator.csproj.CoreCompileInputs.cache
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.exe
+D:\vscode\c_sharp\lotto\lotto_4\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.pdb
